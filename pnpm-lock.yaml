@@ -21,6 +21,9 @@ catalogs:
     typescript:
       specifier: ^5.6.3
       version: 5.6.3
+    zod:
+      specifier: ^3.24.1
+      version: 3.24.1
   react18:
     '@types/react-dom':
       specifier: ^18.3.1
